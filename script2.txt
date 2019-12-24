@@ -1,1 +1,1 @@
-there are 5 pillars of devops : communication, automatisation, lean, share, mesure
+implmenting a devops methodology can speed up the developement time and make the cooperation between coworkers easier.
