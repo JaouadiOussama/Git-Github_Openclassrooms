@@ -1,1 +1,1 @@
-I think it's very important to work with versioning control tools
+git is a distributed versioning tool. its role is to follow the modifications commited on your code.
