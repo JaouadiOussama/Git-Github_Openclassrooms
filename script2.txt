@@ -1,0 +1,1 @@
+there are 5 pillars of devops : communication, automatisation, lean, share, mesure
